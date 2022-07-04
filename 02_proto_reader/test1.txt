@@ -1,0 +1,12 @@
+*BEGIN*END
+*BEGIN Jonapot kivanok *END
+*BEGIN         *END
+*BEGIN  *END
+*END ez egy rossz *BEGIN
+*BEGIN ittmindenegybenvanirva1234 *END
+*BEGIN vege *END
+*BEGIN valami *BEGIN*END
+*BEGIN vege2 *END
+*BEGINN
+*BEGIN vege3 *END
+ez egy rossz bemenet
